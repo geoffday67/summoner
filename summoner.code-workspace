@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "Receiver one"
+		},
+		{
+			"path": "Caller"
+		},
+		{
+			"name": "Receiver with display",
+			"path": "Receiver with display"
+		},
+		{
+			"name": "Receiver with lights",
+			"path": "Receiver with lights"
+		},
+		{
+			"name": "Gameboy receiver",
+			"path": "Gameboy receiver"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.osx": {
+			"PATH": "/Users/geoffday/.platformio/penv/bin:/Users/geoffday/.platformio/penv:/Users/geoffday/Documents/google-cloud-sdk/bin:/Users/geoffday/.sdkman/candidates/kotlin/current/bin:/Library/Frameworks/Python.framework/Versions/3.7/bin:/Users/geoffday/.fastlane/bin:/Users/geoffday/.rvm/gems/ruby-2.4.0/bin:/Users/geoffday/.rvm/gems/ruby-2.4.0@global/bin:/Users/geoffday/.rvm/rubies/ruby-2.4.0/bin:/Users/geoffday/Library/Android/sdk/tools/bin:/Users/geoffday/Library/Android/sdk/tools:/Users/geoffday/Library/Android/sdk/platform-tools:/Library/Frameworks/Python.framework/Versions/3.6/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Apple/usr/bin:/Library/Apple/bin:/opt/X11/bin:/opt/ImageMagick/bin:/Applications/Postgres.app/Contents/Versions/latest/bin:/Users/geoffday/Library/Android/sdk/platform-tools:/Users/geoffday/Library/Android/sdk:/Users/geoffday/.rvm/bin",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
